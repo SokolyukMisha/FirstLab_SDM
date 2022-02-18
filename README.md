@@ -37,7 +37,7 @@ a can't be zero
 a = 6
 b = 5
 c = 0
-Equation is: (6.0) x^2 + (5.0) x + (0) = 0
+Equation is: (5.0) x^2 + (6.0) x + (0) = 0
 There are 2 roots
 x1 = 0.0, x2 = -1.2
 ```
@@ -45,7 +45,7 @@ x1 = 0.0, x2 = -1.2
 In noninteractive you need to have file with numbers which will satisfy this regex: "\d\s\d\s\d\n". Example: 6 5 0
 
 ```
-Equation is: (6.0) x^2 + (5.0) x + (0) = 0
+Equation is: (5.0) x^2 + (6.0) x + (0) = 0
 There are 2 roots
 x1 = 0.0, x2 = -1.2
 ```
