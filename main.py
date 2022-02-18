@@ -2,7 +2,7 @@ from math import sqrt
 import sys
 import re
 
-print("something that i don't need and will revert it")
+
 def InteractiveGetValues():
     a = float(input("a = "))
     if a == 0:
