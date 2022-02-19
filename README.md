@@ -10,11 +10,11 @@ This is the first lab for SDM which allow us to solve quadratic equations faster
 
 2. Secondary, clone repository
 ```bash
-  git clone https://github.com/kcholombytko/sdm-lab1
+  git clone https://github.com/SokolyukMisha/FirstLab_SDM
 ```
 3. Thirdly, open directory
 ```bash
-  cd sdm-lab1
+  cd FirstLab_SDM
 ```
 4. Fourthly, run script
 ```bash
@@ -34,8 +34,8 @@ In interactive variation program will ask you to input values
 ```
 a = 0
 a can't be zero
-a = 6
-b = 5
+a = 5
+b = 6
 c = 0
 Equation is: (5.0) x^2 + (6.0) x + (0) = 0
 There are 2 roots
